@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Avolisso
+- 👀 I’m interested in C#, UNITY, GAME DEVELOPING, DATA BASES, SQL
+- 🌱 I’m currently learning C#, MY FIRST GOAL IS USING THE SOLID PRINCIPLES CORRECTLY ON MY PROJECTS
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me okanozsatici@gmail.com

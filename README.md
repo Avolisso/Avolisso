@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Avolisso
-- 👀 I’m interested in C#, UNITY, GAME DEVELOPING, DATA BASES, SQL
-- 🌱 I’m currently learning C#, MY FIRST GOAL IS USING THE SOLID PRINCIPLES CORRECTLY ON MY PROJECTS
+- 🌱 Learning GODOT Engine.
 - 📫 How to reach me okanozsatici@gmail.com

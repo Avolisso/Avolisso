@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Avolisso
-- 🌱 Learning GODOT Engine.
-- 📫 How to reach me okanozsatici@gmail.com
+- 👋 Hi, I’m Okan
